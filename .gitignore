@@ -1,0 +1,6 @@
+.env
+__pycache__/
+data/metrics/*.csv
+data/comparison_reports/*.csv
+*.pyc
+venv/
